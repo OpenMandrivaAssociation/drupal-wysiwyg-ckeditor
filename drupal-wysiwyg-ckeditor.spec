@@ -3,10 +3,10 @@
 Name:		drupal-wysiwyg-%{oname}
 Summary:	CKEditor for Drupal Wysiwyg module
 Version:	3.6.3
-Release:	1
+Release:	2
 License:	GPLv2+ or LGPLv2.1+ or MPL
 Group:		Networking/WWW
-URL:		http://www.tinymce.com/
+URL:		http://ckeditor.com/
 Source0:	http://download.cksource.com/CKEditor/CKEditor/CKEditor%%20%{version}/%{oname}_%{version}.tar.gz
 Requires:	drupal-wysiwyg
 Provides:	drupal-wysiwyg-editor
