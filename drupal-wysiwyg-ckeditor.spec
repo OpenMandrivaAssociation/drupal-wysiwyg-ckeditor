@@ -32,3 +32,18 @@ rm %{buildroot}%{_var}/www/drupal//sites/all/libraries/%{oname}/*.html
 %files
 %{_var}/www/drupal//sites/all/libraries/%{oname}
 %doc CHANGES.html LICENSE.html
+
+
+%changelog
+* Thu Aug 09 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 3.6.4-1
++ Revision: 813306
+- update to 3.6.4
+
+* Fri May 11 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 3.6.3-2
++ Revision: 798357
+- fix URL tag
+
+* Fri May 11 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 3.6.3-1
++ Revision: 798336
+- imported package drupal-wysiwyg-ckeditor
+
