@@ -3,7 +3,7 @@
 Name:		drupal-wysiwyg-%{oname}
 Summary:	CKEditor for Drupal Wysiwyg module
 Version:	3.6.4
-Release:	1
+Release:	2
 License:	GPLv2+ or LGPLv2.1+ or MPL
 Group:		Networking/WWW
 URL:		http://ckeditor.com/
