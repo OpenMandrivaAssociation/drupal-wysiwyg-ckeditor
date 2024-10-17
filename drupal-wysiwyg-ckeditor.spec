@@ -6,7 +6,7 @@ Version:	3.6.4
 Release:	2
 License:	GPLv2+ or LGPLv2.1+ or MPL
 Group:		Networking/WWW
-URL:		http://ckeditor.com/
+URL:		https://ckeditor.com/
 Source0:	http://download.cksource.com/CKEditor/CKEditor/CKEditor%%20%{version}/%{oname}_%{version}.tar.gz
 Requires:	drupal-wysiwyg
 Provides:	drupal-wysiwyg-editor
